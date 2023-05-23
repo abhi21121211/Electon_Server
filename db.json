@@ -13,7 +13,7 @@
         "review_star": 4.5,
         "available": true,
         "image_color": "black",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG123456",
         "category": "camera",
         "color":["Black"],
@@ -136,7 +136,7 @@
         "review_star": 4.0,
         "available": true,
         "image_color": "white",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG567890",
         "category": "mouse",
         "color":["white"],
@@ -229,7 +229,7 @@
         "review_star": 3.2,
         "available": true,
         "image_color": "black",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG678901",
         "category": "headfone",
         "color":["black"],
@@ -291,7 +291,7 @@
         "review_star": 4.2,
         "available": true,
         "image_color": "orange",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG901234",
         "category": "watch",
         "color":["orange"],
@@ -312,11 +312,11 @@
       {
         "id": 11,
         "image": [
-          "https://example.com/img31.jpg",
-          "https://example.com/img32.jpg",
-          "https://example.com/img33.jpg"
+          "https://m.media-amazon.com/images/I/61FNJqTfD7L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/613eMeyDpPL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61BsWluQpPL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 11",
+        "name": "Redgear Cosmo 7",
         "price": 399.99,
         "review_star": 4.6,
         "available": true,
@@ -341,11 +341,11 @@
       {
         "id": 12,
         "image": [
-          "https://example.com/img34.jpg",
-          "https://example.com/img35.jpg",
-          "https://example.com/img36.jpg"
+          "https://m.media-amazon.com/images/I/61aniK-DlsL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71-fUcT3pvL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71mb1dHoKgL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 12",
+        "name": "Gaming Keyboard",
         "price": 159.99,
         "review_star": 3.7,
         "available": true,
@@ -370,16 +370,16 @@
       {
         "id": 13,
         "image": [
-          "https://example.com/img37.jpg",
-          "https://example.com/img38.jpg",
-          "https://example.com/img39.jpg"
+          "https://m.media-amazon.com/images/I/61zroMjd9FL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71uAbRcLlNL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61S2Z0unzZL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 13",
+        "name": "STRIFF Mpad Mouse Mat",
         "price": 299.99,
         "review_star": 4.3,
         "available": true,
         "image_color": "black",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG234567",
         "category": "Electronics",
         "customer_reviews": [
@@ -399,16 +399,16 @@
       {
         "id": 14,
         "image": [
-          "https://example.com/img40.jpg",
-          "https://example.com/img41.jpg",
-          "https://example.com/img42.jpg"
+          "https://m.media-amazon.com/images/I/71Zf9uUp+GL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61GC3dc1skL._SL1000_.jpg",
+          "https://m.media-amazon.com/images/I/71FY4-o9i0L._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 14",
+        "name": "Laptop Tabletop Stand",
         "price": 189.99,
         "review_star": 3.6,
         "available": true,
         "image_color": "white",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG678901",
         "category": "Electronics",
         "customer_reviews": [
@@ -428,11 +428,11 @@
       {
         "id": 15,
         "image": [
-          "https://example.com/img43.jpg",
-          "https://example.com/img44.jpg",
-          "https://example.com/img45.jpg"
+          "https://m.media-amazon.com/images/I/61SSVxTSs3L._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/619g-acf-GL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71QGrEqdLeL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 15",
+        "name": "Bluetooth Smart Watch",
         "price": 549.99,
         "review_star": 4.7,
         "available": true,
@@ -457,16 +457,16 @@
       {
         "id": 16,
         "image": [
-          "https://example.com/img46.jpg",
-          "https://example.com/img47.jpg",
-          "https://example.com/img48.jpg"
+          "https://m.media-amazon.com/images/I/61hsVBy1xCL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61UEnUmr2nL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61pAndD3dPL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 16",
+        "name": "Smart Watch with 1.75",
         "price": 279.99,
         "review_star": 4.1,
         "available": true,
         "image_color": "silver",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG901234",
         "category": "Electronics",
         "customer_reviews": [
@@ -486,11 +486,11 @@
       {
         "id": 17,
         "image": [
-          "https://example.com/img49.jpg",
-          "https://example.com/img50.jpg",
-          "https://example.com/img51.jpg"
+          "https://m.media-amazon.com/images/I/61Jw78HUL8L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/51aRxb-YpFL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61zKl-nGQXL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 17",
+        "name": "Ear Earbuds",
         "price": 419.99,
         "review_star": 4.5,
         "available": true,
@@ -515,11 +515,11 @@
       {
         "id": 18,
         "image": [
-          "https://example.com/img52.jpg",
-          "https://example.com/img53.jpg",
-          "https://example.com/img54.jpg"
+          "https://m.media-amazon.com/images/I/61QRgOgBx0L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61J6s1tkwpL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71EA48-X7zL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 18",
+        "name": "OnePlus Nord CE 3",
         "price": 159.99,
         "review_star": 3.7,
         "available": true,
@@ -544,16 +544,16 @@
       {
         "id": 19,
         "image": [
-          "https://example.com/img55.jpg",
-          "https://example.com/img56.jpg",
-          "https://example.com/img57.jpg"
+          "https://m.media-amazon.com/images/I/613zXoHNItL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/612+Vw1bX6L.jpg",
+          "https://m.media-amazon.com/images/I/519XP-QeN0L.jpg"
         ],
-        "name": "Fake Gadget 19",
+        "name": "Compatible Laptop Battery",
         "price": 299.99,
         "review_star": 4.3,
         "available": true,
         "image_color": "black",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG234567",
         "category": "Electronics",
         "customer_reviews": [
@@ -573,16 +573,16 @@
       {
         "id": 20,
         "image": [
-          "https://example.com/img58.jpg",
-          "https://example.com/img59.jpg",
-          "https://example.com/img60.jpg"
+          "https://m.media-amazon.com/images/I/51NIFlY4adL._SL1280_.jpg",
+          "https://m.media-amazon.com/images/I/61hAGFvF+GL._SL1000_.jpg",
+          "https://m.media-amazon.com/images/I/61YR-vvOsKL._SL1280_.jpg"
         ],
-        "name": "Fake Gadget 20",
+        "name": "Hidden Camera",
         "price": 189.99,
         "review_star": 3.6,
         "available": true,
         "image_color": "white",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG678901",
         "category": "Electronics",
         "customer_reviews": [
@@ -602,11 +602,11 @@
       {
         "id": 21,
         "image": [
-          "https://example.com/img61.jpg",
-          "https://example.com/img62.jpg",
-          "https://example.com/img63.jpg"
+          "https://m.media-amazon.com/images/I/613qFoUPXTL._SL1392_.jpg",
+          "https://m.media-amazon.com/images/I/61Be-mElTaL._SL1353_.jpg",
+          "https://m.media-amazon.com/images/I/51j7jMQJ+ML._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 21",
+        "name": "Wireless Security Camera",
         "price": 549.99,
         "review_star": 4.7,
         "available": true,
@@ -631,16 +631,16 @@
       {
         "id": 22,
         "image": [
-          "https://example.com/img64.jpg",
-          "https://example.com/img65.jpg",
-          "https://example.com/img66.jpg"
+          "https://m.media-amazon.com/images/I/613pf1JTs9L._SL1000_.jpg",
+          "https://m.media-amazon.com/images/I/61Z2paihhLL._SL1000_.jpg",
+          "https://m.media-amazon.com/images/I/81+RGX6GuGL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 22",
+        "name": "Nikon D7500 20.9MP",
         "price": 279.99,
         "review_star": 4.1,
         "available": true,
         "image_color": "silver",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG901234",
         "category": "Electronics",
         "customer_reviews": [
@@ -660,11 +660,11 @@
       {
         "id": 23,
         "image": [
-          "https://example.com/img67.jpg",
-          "https://example.com/img68.jpg",
-          "https://example.com/img69.jpg"
+          "https://m.media-amazon.com/images/I/61eSjrMfPSL._SL1200_.jpg",
+          "https://m.media-amazon.com/images/I/51Dg+A1m6CL.jpg",
+          "https://m.media-amazon.com/images/I/41hnCrqD0ML.jpg"
         ],
-        "name": "Fake Gadget 23",
+        "name": "Nikon 50mm Nikkor",
         "price": 419.99,
         "review_star": 4.5,
         "available": true,
@@ -689,9 +689,9 @@
       {
         "id": 24,
         "image": [
-          "https://example.com/img70.jpg",
-          "https://example.com/img71.jpg",
-          "https://example.com/img72.jpg"
+          "https://m.media-amazon.com/images/I/41nVcNAhy9L.jpg",
+          "https://m.media-amazon.com/images/I/515v9gy+dPL._SL1024_.jpg",
+          "https://m.media-amazon.com/images/I/51uByOY28RL._SL1024_.jpg"
         ],
         "name": "Fake Gadget 24",
         "price": 159.99,
@@ -718,16 +718,16 @@
       {
         "id": 25,
         "image": [
-          "https://example.com/img73.jpg",
-          "https://example.com/img74.jpg",
-          "https://example.com/img75.jpg"
+          "https://m.media-amazon.com/images/I/71mbAxe95OL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/712SP7XR5IL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71cLAT+DR5L._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 25",
+        "name": "Instant Camera",
         "price": 299.99,
         "review_star": 4.3,
         "available": true,
         "image_color": "black",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG234567",
         "category": "Electronics",
         "customer_reviews": [
@@ -747,16 +747,16 @@
       {
         "id": 26,
         "image": [
-          "https://example.com/img76.jpg",
-          "https://example.com/img77.jpg",
-          "https://example.com/img78.jpg"
+          "https://m.media-amazon.com/images/I/81yrmxKIBBL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81x+gsd0cJL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/8179q0WAYNL._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 26",
+        "name": "35mm Film Camera",
         "price": 189.99,
         "review_star": 3.6,
         "available": true,
         "image_color": "white",
-        "size": "Medium",
+        "size":[ 26, 36, 46, 56 ],
         "sku": "FG678901",
         "category": "Electronics",
         "customer_reviews": [
@@ -776,11 +776,11 @@
       {
         "id": 27,
         "image": [
-          "https://example.com/img79.jpg",
-          "https://example.com/img80.jpg",
-          "https://example.com/img81.jpg"
+          "https://m.media-amazon.com/images/I/61rvcsMoRYL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81vxoG5+gAL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71fygEunH2L._SL1500_.jpg"
         ],
-        "name": "Fake Gadget 27",
+        "name": "PTron Newly Launched",
         "price": 549.99,
         "review_star": 4.7,
         "available": true,
