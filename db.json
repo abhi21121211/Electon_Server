@@ -3,21 +3,23 @@
       {
         "id": 1,
         "image": [
-          "https://example.com/img1.jpg",
-          "https://example.com/img2.jpg",
-          "https://example.com/img3.jpg"
+          "https://m.media-amazon.com/images/I/71M5l+O4OFL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71MJ3OaVqBL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51t8LrKauNL._SX679_.jpg"
         ],
         "name": "Fake Gadget 1",
         "price": 199.99,
         "review_star": 4.5,
         "available": true,
-        "image_color": "black",
+        "image_color":[
+          "black","red","white"
+        ] ,
         "size": "Medium",
         "sku": "FG123456",
         "category": "Electronics",
         "customer_reviews": [
           {
-            "username": "JohnDoe",
+            "username": ":JohnDoe",
             "rating": 4.0,
             "comment": "Great gadget! Highly recommended."
           },
