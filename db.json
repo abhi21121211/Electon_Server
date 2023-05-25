@@ -381,7 +381,9 @@
       "finalPrice":640,
       "review_star": 4.6,
       "available": true,
-      "image_color": "white",
+      "image_color": "white", "color": [
+        "grey"
+      ],
       "size": [
         26,
         36,
@@ -416,6 +418,9 @@
       "review_star": 3.7,
       "available": true,
       "image_color": "silver",
+      "color": [
+        "white"
+      ],
       "size": [
         26,
         36,
@@ -449,7 +454,9 @@
       "finalPrice":640,
       "review_star": 4.3,
       "available": true,
-      "image_color": "black",
+      "image_color": "black", "color": [
+        "Black"
+      ],
       "size": [
         26,
         36,
@@ -484,6 +491,9 @@
       "review_star": 3.6,
       "available": true,
       "image_color": "white",
+      "color": [
+        "grey"
+      ],
       "size": [
         26,
         36,
@@ -518,6 +528,9 @@
       "review_star": 4.7,
       "available": true,
       "image_color": "black",
+      "color": [
+        "Black"
+      ],
       "size": [
         26,
         36,
@@ -552,6 +565,9 @@
       "review_star": 4.1,
       "available": true,
       "image_color": "silver",
+      "color": [
+        "#65756b "
+      ],
       "size": [
         26,
         36,
@@ -586,6 +602,9 @@
       "review_star": 4.5,
       "available": true,
       "image_color": "white",
+      "color": [
+        "white"
+      ],
       "size": [
         26,
         36,
@@ -620,6 +639,9 @@
       "review_star": 3.7,
       "available": true,
       "image_color": "black",
+      "color": [
+        "#d6ef89"
+      ],
       "size": [
         26,
         36,
@@ -654,6 +676,9 @@
       "review_star": 4.3,
       "available": true,
       "image_color": "black",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -688,6 +713,9 @@
       "review_star": 3.6,
       "available": true,
       "image_color": "white",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -722,6 +750,9 @@
       "review_star": 4.7,
       "available": true,
       "image_color": "black",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -756,6 +787,9 @@
       "review_star": 4.1,
       "available": true,
       "image_color": "silver",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -790,6 +824,9 @@
       "review_star": 4.5,
       "available": true,
       "image_color": "white",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -823,6 +860,9 @@
       "finalPrice":460,
       "review_star": 3.7,
       "available": true,
+      "color": [
+        "black"
+      ],
       "image_color": "black",
       "size": [
         26,
@@ -858,6 +898,9 @@
       "review_star": 4.3,
       "available": true,
       "image_color": "black",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -892,6 +935,9 @@
       "review_star": 3.6,
       "available": true,
       "image_color": "white",
+      "color": [
+        "black"
+      ],
       "size": [
         26,
         36,
@@ -926,6 +972,9 @@
       "review_star": 4.7,
       "available": true,
       "image_color": "black",
+      "color": [
+        "#4dc7d0 "
+      ],
       "size": [
         26,
         36,
